@@ -1,2 +1,2 @@
 # First-Application
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ksorathia23/7030_conda_binder.git/r40_ry39)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ksorathia23/7030_conda_binder/r40_py39)
